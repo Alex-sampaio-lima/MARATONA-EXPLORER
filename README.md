@@ -7,7 +7,7 @@
 
 Projeto construído no evento Matatona Explorer 3
 
-[ 🔗 Clique aqui para acessar](https://alex-sampaio-lima.github.io/MARATONAEXPLORER3/)
+[ 🔗 Clique aqui para acessar](https://Alex-sampaio-lima.github.io/MARATONAEXPLORER3/)
 
 ## 🛠 TecnoLogias
 
