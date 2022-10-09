@@ -1,4 +1,4 @@
-# MARATONAEXPLORER3 
+# MARATONA-EXPLORER-3 
 
 ![preview](./preview.png)
 ![preview](./MARATONAEXPLORERQRCODE.png)
